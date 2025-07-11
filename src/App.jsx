@@ -81,7 +81,7 @@ const App = ({ role }) => {
 
   return (
     <div style={{ marginTop: 40 }}>
-      <h3>Firestore User List 📄</h3>
+      <h3>Firestore User Lists 📄</h3>
 
       {!isAdmin && (
         <p style={{ color: "gray" }}>
